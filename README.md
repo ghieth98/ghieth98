@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Portfolio and reservation website<br>👯 I’m looking to collaborate on backend projects and API Solutions<br>🌱 I’m currently learning Javascript<br>💬 Ask me about PHP, Laravel, Databases<br>
+🔭 I’m currently working on a Portfolio and reservation website<br>👯 I’m looking to collaborate on backend projects and API Solutions<br>🌱 I’m currently learning Nodejs<br>💬 Ask me about PHP, Laravel, Databases<br>
 
 
 ## 🌐 Socials:
